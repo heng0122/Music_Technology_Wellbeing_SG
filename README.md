@@ -1,2 +1,3 @@
-# music_technology_wellbeing_SG
-Consolidation of music for well-being in SG
+# Music, Technology, and Wellbeing in Singapore
+
+Consolidation of resources related to music for well-being in Singapore
